@@ -5,7 +5,7 @@
 .item{
     list-style: none;
     padding: 10px;
-    border: 1px solid blue;
+    border: 1px solid orange;
     margin: 10px;
     border-radius: 10px;
 }
@@ -20,5 +20,5 @@ color: white;
 }
 
 .item:hover{
-    background-color: lightcyan;
+    background-color: goldenrod;
 }
