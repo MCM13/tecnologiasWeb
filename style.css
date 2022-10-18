@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+}
+
+.item{
+    list-style: none;
+    padding: 10px;
+    border: 1px solid blue;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.item a{
+text-decoration: none;
+text-transform: uppercase;
+}
+
+.item a:hover{
+color: white;
+}
+
+.item:hover{
+    background-color: lightcyan;
+}
